@@ -1,0 +1,42 @@
+p{
+    margin: 40px;
+    padding: 20px;
+}
+
+.div-1{
+    background-color:#F5F5F5;
+}
+
+.div-2{
+    background-color:#F0CCE2;
+}
+
+.intro_tabela_moda tr{
+    background-color: #BB86FC;
+    color:white;
+}
+
+.intro_tabela_moda ,tr ,th{
+    padding: 10px;
+    font-size: 24px;
+}
+
+.corpo_tabela_moda{
+    background-color: #424250;
+    color:white;
+}
+
+.corpo_tabela_moda ,tr ,td{
+    padding: 10px;
+}
+
+.cabeca_tabela_casa{
+    background-color: #00C4B4;
+    color: white;
+}
+
+.tabela_corpo_casa{
+    background-color: #424250;
+    color:#F5F5F5;
+}
+
